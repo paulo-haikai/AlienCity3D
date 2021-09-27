@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/menu.unity
+    guid: 8d0144097d325d344a6e7b150b4f7b9b
+  - enabled: 1
+    path: Assets/Cenas/creditos.unity
+    guid: 9df4a497d6ad24941b4d3cbec1505df7
+  - enabled: 1
+    path: Assets/Cenas/Jogo.unity
+    guid: 1e2c4708386f8d84e891a8d5a59646f9
+  - enabled: 1
+    path: Assets/Cenas/derrota.unity
+    guid: f3af35f914001724b8fe7764c8920c57
+  - enabled: 1
+    path: Assets/Cenas/vitoria.unity
+    guid: 3e114e2d120e93c428dbb7b9b4892b71
+  m_configObjects: {}
